@@ -1,6 +1,5 @@
 # Node.js and Express.js Starter with MongoDB
 
-![Project Logo](link_to_your_logo_or_an_image)
 
 ## Overview
 
